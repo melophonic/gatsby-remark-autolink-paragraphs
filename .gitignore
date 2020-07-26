@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+/index.js
+/gatsby-browser.js
+/gatsby-ssr.js
+/__tests__
